@@ -1,2 +1,2 @@
 # odin-recipes
-this project is to tet my html skills
+this project is to test my html skills
